@@ -56,8 +56,8 @@ async def start(bot, update):
                     ),
                     InlineKeyboardButton("Update Channel 👨🏻‍💻", url="https://t.me/media_bot_updates"),
                 ],
-                [InlineKeyboardButton("Developer 👨‍⚖️", url="https://t.me/darkz_hacker_devil")],
-              [InlineKeyboardButton("Report Bugs", url="https://t.me/helpingbotbyfatsgbot")],
+                [InlineKeyboardButton("Report Bugs", url="https://t.me/helpingbotbyfatsgbot")],
+              [InlineKeyboardButton("Developer 👨‍⚖️", url="https://t.me/darkz_hacker_devil")],
             ]
         ),
         reply_to_message_id=update.message_id
