@@ -1,7 +1,8 @@
 class Translation(object):
     START_TEXT = """Hi {},
 I'm URL Uploader!
-You can upload direct link, Using this bot!😊
+You can upload direct links,Youtube Links Using this bot!☺️
+Just send me a direct link and see the majic 😎
 
 /help for more details!
 
@@ -18,7 +19,7 @@ URL | filename | username | password"""
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
     DEL_ETED_CUSTOM_THUMB_NAIL = "Custom thumbnail cleared succesfully. ✅"
     CUSTOM_CAPTION_UL_FILE = "{}"
-    NO_VOID_FORMAT_FOUND = "ERROR...\n<b>YouTubeDL</b> said: {}"
+    NO_VOID_FORMAT_FOUND = "ERROR❌❌❌\n<b>YouTubeDL</b> said: {}"
     HELP_USER = """How to Use Me? Follow These steps!
     
 1. Send url (example.domain/File.mp4 | New Filename.mp4).
